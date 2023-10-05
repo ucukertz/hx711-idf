@@ -1,1 +1,1 @@
-# HX711 load sensor
+# HX711 load sensor for ESP-IDF
